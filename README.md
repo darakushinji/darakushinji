@@ -1,3 +1,5 @@
+https://github.com/darakushinji/Learning-Management-System
+https://github.com/darakushinji/Machine-Learning-Practice-w-Linear-Algebra
 <p align="left">
 </p>
 
